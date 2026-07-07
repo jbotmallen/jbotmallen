@@ -35,7 +35,7 @@ I have experience with React, Next.js, React Native, Node.js, Laravel, Django RE
 Built a multiplayer game with a server-authoritative match loop to keep gameplay state trustworthy under load. Added practice bots, ranked play, tutorials, cosmetics, and packaged the same web build as a desktop product with Tauri.
 
 ---
-
+![image](https://mallen-softdev.com/img/eventio/main.png)
 ### Event.io
 **Event Platform**
 
@@ -44,7 +44,7 @@ Built a multiplayer game with a server-authoritative match loop to keep gameplay
 Built an event platform combining RSVP flows, admin operations, payment handling, authentication, storage, organizer workflows, AI-assisted support, and charts for clearer event decisions.
 
 ---
-
+![image](https://passgen-web.adfinemgaming.workers.dev/og.png)
 ### Privaulta
 **Desktop Password Manager**
 
@@ -53,7 +53,7 @@ Built an event platform combining RSVP flows, admin operations, payment handling
 Built a local-first password manager where encrypted vault data stays on the user's machine. Implemented vault creation, unlock flows, password generation, encrypted storage, and sensitive field protection.
 
 ---
-
+![image](https://mallen-softdev.com/img/tribbit/main.png)
 ### Tribbit
 **Goal & Habit Tracking Web App**
 
@@ -62,7 +62,7 @@ Built a local-first password manager where encrypted vault data stays on the use
 Developed a goal and habit tracking platform with persistent user data, shared application state, and a full interface, API, and database workflow.
 
 ---
-
+![image](https://mallen-softdev.com/img/eazy-convert/main.png)
 ### EazyConvert
 **Desktop Utility App**
 
@@ -71,7 +71,7 @@ Developed a goal and habit tracking platform with persistent user data, shared a
 Built a desktop utility for media, document, conversion, and download workflows that require local-system capabilities beyond browser-only limitations.
 
 ---
-
+![image](https://mallen-softdev.com/img/budgify/main.png)
 ### Budgify
 **Mobile Budgeting App**
 
